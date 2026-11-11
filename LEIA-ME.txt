@@ -1,0 +1,17 @@
+KAKA LANCHES — CARDÁPIO +40%
+
+Este pacote é a versão com preços reajustados em 40%.
+A identidade visual, estrutura, descrições, categorias, imagens e links foram mantidos.
+
+PUBLICAÇÃO NO GITHUB PAGES
+1. Crie um repositório público chamado: cardapio-40
+2. Extraia este ZIP no computador.
+3. Envie TODOS os arquivos e pastas desta pasta para a raiz do repositório.
+   Importante: index.html e a pasta assets devem ficar lado a lado na raiz.
+4. No GitHub, abra Settings > Pages.
+5. Em Build and deployment, selecione Deploy from a branch.
+6. Escolha a branch main e a pasta /(root), depois clique em Save.
+7. Aguarde a publicação em: https://kaka-lanches.github.io/cardapio-40/
+
+Não envie a pasta externa que contém os arquivos; envie o conteúdo dela.
+O repositório original cardapio não precisa ser alterado.
